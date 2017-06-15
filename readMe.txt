@@ -1,1 +1,1 @@
-This repo will keep track of my Front-End Dev learning/projects.
+This is a 30-day vanilla JavaScript challenge. Details can be found at https://javascript30.com/
